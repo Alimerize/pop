@@ -1,0 +1,24 @@
+body{
+    background-image: url("../img/devushka_ushki_zakolki_965822_2560x1080.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#pop{
+    position: absolute;
+    right: 20%;
+    top: 20%;
+    text-align: center;
+    background-color:#717dbeb9;
+    border: 4%;
+    border-radius: 50%;
+    width: 60%;
+    height: 50%;
+}
+#pip{
+    position: absolute;
+    width: 60%;
+    height: 50%;
+    right: 20%;
+    top: 20%;
+}
